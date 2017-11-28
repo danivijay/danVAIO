@@ -1,0 +1,4 @@
+# Login Screen
+C:\Windows\System32\oobe\info\Backgrounds
+# Logo
+C:\Windows\System32
